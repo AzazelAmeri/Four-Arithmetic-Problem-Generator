@@ -14,5 +14,8 @@ class Equation:
     def processing_string(string):
         pass
 
+    def fun(a):
+        pass
+
 
 
