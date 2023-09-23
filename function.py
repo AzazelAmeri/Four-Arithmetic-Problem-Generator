@@ -9,6 +9,9 @@ class Equation:
         else:
             pass
 
+    def process_string(string):
+        pass
+
 
 
 
