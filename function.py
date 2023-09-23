@@ -9,8 +9,10 @@ class Equation:
             result=1
         else:
             pass
+        return result
 
-
+    def processing_string(string):
+        pass
 
 
 
