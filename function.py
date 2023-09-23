@@ -1,5 +1,5 @@
 class Equation:
-    '''��ʽ��'''
+    '''processing four arithmetic formulas'''
 
     def reduction_of_a_fraction(numerator,denominator):
         if numerator>denominator:
@@ -10,9 +10,8 @@ class Equation:
             pass
         return result
 
-    def process_string(string):
+    def processing_string(string):
         pass
-
 
 
 
