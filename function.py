@@ -1,6 +1,5 @@
-#-*-coding: gbk-*-
 class Equation:
-    '''ËãÊ½Àà'''
+    '''ç®—å¼ç±»'''
 
     def reduction_of_a_fraction(numerator,denominator):
         if numerator>denominator:
