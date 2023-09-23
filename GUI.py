@@ -1,5 +1,6 @@
 class my_class(object):
-    pass
+    def func(a):
+        pass
 
 
 
